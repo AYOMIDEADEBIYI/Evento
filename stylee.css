@@ -1,0 +1,21 @@
+.logo {
+    float: right;
+}
+.limit {
+    text-align: center;
+    height: 100vh;
+    padding-top: 50px;
+    margin: auto;
+}
+.img {
+    background-image: url(/image/clients/client-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img h1 {
+    text-align: center;
+    padding-top: 20%;
+
+
+}
